@@ -1,5 +1,19 @@
 body {
     background-color: rgb(188, 236, 250);
     color:black;
-     font-family:fantasy
+    font-family:cursive
+p {
+    color: crimson;
+    color: brown;
+    font-family: cursive;
+}
+p {
+    color: blueviolet;
+}
+.first-para {
+    color: black;
+}
+p.thick {
+    font-weight: bold;
+}
 }
