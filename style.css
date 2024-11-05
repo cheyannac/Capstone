@@ -1,11 +1,11 @@
 body {
-    background-color: rgb(188, 236, 250);
+    background-color: rgb(248, 233, 255);
     color:black;
     font-family:cursive
 p {
     color: crimson;
     color: brown;
-    font-family: cursive;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 p {
     color: blueviolet;
