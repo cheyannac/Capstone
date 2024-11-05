@@ -1,8 +1,8 @@
 body {
     background-color: rgb(236, 204, 250);
-    color:black;
     font-family:cursive
     font-size 45px;
+}
 h1 {
     color: rgba(198, 136, 198, 0.816);
     text-align: center;
@@ -23,8 +23,9 @@ h1 {
 
 p.thick {
     font-weight: bold;
+    line-height: normal;
 }
-}
+
 section p{
     color: black;
 }
